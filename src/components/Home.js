@@ -5,7 +5,7 @@ export default function Home(props) {
     console.log(props.data);
     return (
         <div>
-            <h1>Home Page</h1>
+            <h1>Home</h1>
             <div className='cart'>
                 <div className='img'>
                     <img src='https://www.pngall.com/wp-content/uploads/13/Nike-Shoes-Air-Max-PNG-Cutout.png' width={300} height={200}></img>
